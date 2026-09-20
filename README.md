@@ -30,14 +30,14 @@ each approach.
 |---|---|---|
 | [Music Player DSL](https://github.com/Vidal322/Music-Player-DSL) | A domain-specific language for composing and playing music, built on the Java MIDI API | Java |
 | [Activity Library](https://github.com/Vidal322/activity-library) | An online library for browsing and organising activities | Go |
-| [Forest](https://github.com/Vidal322/forest) | A field companion for tracking planted trees — log species and regions directly onto your field's satellite image | Go, PostgreSQL |
+| [Camp Scheduler](https://github.com/Vidal322/cf_ai_camp_scheduler) | AI camp-scheduling assistant — chat with Llama 3.3 70B over WebSocket to build and persist schedules | TypeScript, Cloudflare Workers, D1 |
 
 ---
 
 ## Tech Stack
 
 **Systems:** Rust · C/C++ · Go  
-**Backend:** Python · Java · Kotlin  
+**Backend:** Go · Python · Java · Kotlin  
 **Web:** TypeScript · Next.js · React  
 **Tools:** Docker · PostgreSQL · Git · Neovim
 
